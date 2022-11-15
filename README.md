@@ -40,7 +40,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O .
+O NLW Copa Bolão Web é a versão Web de uma aplicação desenvolvida para o envio de palpites nos jogos da copa entre amigos e familiares, usando o Next como base do projeto, React com TypeScript para fundamentação da página e Tailwind para a estilação da página. Sendo a página capaz de criar bolões de acordo com o nome inserido pelo usuário.
 
 ## 🔖 Layout
 
